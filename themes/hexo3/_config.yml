@@ -1,0 +1,39 @@
+menu:
+  Docs: /docs/
+  API: https://github.com/xsmart/ve
+  News: /news/
+  Download: http://sourceforge.net/projects/vscloud/
+  Contact: /docs/contact.html
+
+doc_sidebar:
+  Getting Started:
+    Overview: index.html
+    Setup: setup.html
+    Configuration: configuration.html
+    Commands: commands.html
+    Migration: migration.html
+  Basic Usage:
+    Writing: writing.html
+    Drafts: drafts.html
+    Generating: generating.html
+    Tag Plugins: tag-plugins.html
+    Server: server.html
+    Deployment: deployment.html
+  Customization:
+    Permalinks: permalinks.html
+    Themes: themes.html
+    Variables: variables.html
+    Pagination: pagination.html
+    Helpers: helpers.html
+    Plugins: plugins.html
+  Advanced:
+    Models: models.html
+    Events: events.html
+  Contact:
+    Contact: contact.html
+
+google_analytics: 
+fb_admins: 
+swiftype_key: 
+twitter: xsmart
+github: xsmart/ve
