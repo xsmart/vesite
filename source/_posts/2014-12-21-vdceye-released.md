@@ -1,9 +1,17 @@
-title: vdceye 1007 Released
+title: vdceye 2015 R1 Released
 ---
 ![](https://github.com/xsmart/ve-img/raw/master/snapshot/20141203.png)
 
 #### Release Version ####
 [https://sourceforge.net/projects/vscloud/](https://sourceforge.net/projects/vscloud/)
+
+	2015.0101
+	1. Full support video storage & playback, support multi disk(IPSAN,Network disk)
+	2. Change UI style to same.
+	3. Add File base video source support.
+	4. Add Camera Group support.
+	5. Change to QT 5.4 Release version.
+	6. Show no Video if no video.
 
 ### Functions ###
 	ONVIF profile S support.
