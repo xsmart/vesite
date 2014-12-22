@@ -4,9 +4,9 @@ Welcome to the vdceye's documentation.
 ## What's vdceye?
 open source ONVIF IP Camera manager
 
-![](https://github.com/xsmart/ve-img/raw/master/snapshot/20141203.png)
+![](https://github.com/xsmart/ve-img/raw/master/document/started/main.png)
 
-#### Release Version ####
+#### Released Version ####
 [https://sourceforge.net/projects/vscloud/](https://sourceforge.net/projects/vscloud/)
 
 ### Functions ###
@@ -20,6 +20,9 @@ open source ONVIF IP Camera manager
 	Emap
 	Data Mining
 	HDFS Video Recording
+
+### Software Architecture  ###
+![](https://github.com/xsmart/ve-img/raw/master/document/started/softwarearch.png)	
 
 ### Building ###
 #### Windows ####

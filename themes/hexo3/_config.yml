@@ -9,26 +9,21 @@ doc_sidebar:
   Getting Started:
     Overview: index.html
     Setup: setup.html
-    Configuration: configuration.html
-    Commands: commands.html
-    Migration: migration.html
-  Basic Usage:
-    Writing: writing.html
-    Drafts: drafts.html
-    Generating: generating.html
-    Tag Plugins: tag-plugins.html
-    Server: server.html
-    Deployment: deployment.html
-  Customization:
-    Permalinks: permalinks.html
-    Themes: themes.html
-    Variables: variables.html
-    Pagination: pagination.html
-    Helpers: helpers.html
-    Plugins: plugins.html
-  Advanced:
-    Models: models.html
-    Events: events.html
+  Device Management:
+    Camera: camera.html
+    Disk: disk.html
+    Virtual IPC: vipc.html
+  View Management:
+    Layout: layout.html
+    Multi Screen: mscreen.html
+    View : view.html
+  Recording & Playback:
+    Recording: recording.html
+    HDFS Recording: hdfsrecording.html
+    Playback: playback.html
+  Data Mining:
+    People Counting: pcounting.html
+    Smart Search: smartsearch.html
   Contact:
     Contact: contact.html
 
