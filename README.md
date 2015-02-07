@@ -3,7 +3,7 @@
 Install dependencies:
 
 ``` bash
-$ cd vdsite
+$ cd vesite
 $ npm install
 ```
 
