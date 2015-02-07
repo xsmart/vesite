@@ -1,6 +1,9 @@
 title: Contact
 ---
 
-[xsmart@vdceye.com](xsmart@vdceye.com)
 
-[QQ:2104915834](QQ:2104915834)
+Mail  : [xsmart@veyesys.com](xsmart@veyesys.com)
+
+Skype : xsmart@veyesys.com
+
+QQ    : 2104915834

@@ -3,16 +3,16 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: vdcEye
-subtitle: Open cloud Surveillance system
-description: Open cloud Surveillance system
+title: veye
+subtitle: 
+description: 
 author: xsmart
-email: xsmart@vdceye.com	
+email: xsmart@veyesys.com	
 language:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://vdceye.com/
+url: http://veyesys.com
 root: /
 permalink: news/:year/:month/:day/:title/
 tag_dir: tags
@@ -75,7 +75,7 @@ per_page: 0
 pagination_dir: page
 
 # Disqus
-disqus_shortname: vdceye
+disqus_shortname: veye
 
 # Extensions
 ## Plugins: https://github.com/tommy351/hexo/wiki/Plugins
@@ -88,4 +88,4 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: github
-  repo: https://github.com/xsmart/ve
+  repo: https://github.com/xsmart/opencvr

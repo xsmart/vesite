@@ -1,13 +1,14 @@
-title: Documentation
+title: OpenCVR r1.0.1 Released
 ---
-Welcome to the OpenCVR's documentation. 
-## What's OpenCVR?
-open source ONVIF IP Camera manager
+![](https://github.com/xsmart/ve-img/raw/master/snapshot/20141203.png)
 
-![](https://github.com/xsmart/ve-img/raw/master/document/started/main.png)
-
-#### Released Version ####
+#### Release Version ####
 [https://sourceforge.net/projects/vscloud/](https://sourceforge.net/projects/vscloud/)
+
+	1.Change Name to OpenCVR
+	2.Add Hadoop Video record in x64 version
+	set the HADOOP_HOME and JAVA_HOME in the opencvr-hadoop.cmd or opencvr-hadoop.sh
+	then run the opencvr-hadoop.cmd(Run as Administrator) or opencvr-hadoop.sh
 
 ### Functions ###
 	ONVIF profile S support.
@@ -20,9 +21,6 @@ open source ONVIF IP Camera manager
 	Emap
 	Data Mining
 	HDFS Video Recording
-
-### Software Architecture  ###
-![](https://github.com/xsmart/ve-img/raw/master/document/started/softwarearch.png)	
 
 ### Building ###
 #### Windows ####
@@ -40,9 +38,9 @@ open source ONVIF IP Camera manager
 		export  PATH=$PATH:/home/xxx/Qt5.4.0/5.4/gcc_64/bin:/home/xxx/Qt5.4.0/Tools/QtCreator/bin/
 
 For more guide
-[http://veyesys.com/](http://veyesys.com/)
+[http://www.vdceye.com/](http://www.vdceye.com/)
 
-[xsmart@vdceye.com](xsmart@veyesys.com)
+[xsmart@vdceye.com](xsmart@vdceye.com)
 
 ### Note: ###
 	Please Delete C:\videodb if use vdcEye Manager V2014-0630.msi and before.
