@@ -5,6 +5,7 @@ Install dependencies:
 ``` bash
 $ cd vesite
 $ npm install
+$ sudo npm install -g gulp
 ```
 
 Generate:
