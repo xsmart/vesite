@@ -1,9 +1,13 @@
-title: Documentation
----
-Welcome to the OpenCVR's documentation. 
-## What's OpenCVR?
-#### open source ONVIF IP Camera manager ####
+# OpenCVR #
 
+	1.Add user management, default password is admin.
+	2.Full support emap
+	3.Change some icon.
+	4.Fix crash issue when edit or delete camera.
+	5.Change RTSP server default port from 554 to 9554.
+	6.Add 简体中文 support.
+
+#### open source ONVIF IP Camera manager ####
 ----------
 ![](https://github.com/xsmart/ve-img/raw/master/snapshot/20141203.png)
 
@@ -101,5 +105,4 @@ QQ    : 2104915834
 
 
 		
-
 
