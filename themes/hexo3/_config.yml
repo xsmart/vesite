@@ -1,6 +1,6 @@
 menu:
   Docs: /docs/
-  API: https://github.com/xsmart/ve
+  API: https://github.com/xsmart/opencvr/blob/master/doc/oapi.md
   News: /news/
   Download: http://sourceforge.net/projects/vscloud/
   Contact: /docs/contact.html
@@ -17,6 +17,7 @@ doc_sidebar:
     Layout: layout.html
     Multi Screen: mscreen.html
     View : view.html
+    HW Accel: mediasdk.html
   Recording & Playback:
     Recording: recording.html
     HDFS Recording: hdfsrecording.html
